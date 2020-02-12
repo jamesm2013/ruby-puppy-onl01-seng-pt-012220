@@ -25,7 +25,7 @@ class Dog
  end 
  
  def save
-    puts = save
+    @@all << self
   end
  end 
  end
